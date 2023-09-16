@@ -9,7 +9,7 @@ Immerse yourself in Manhattan with Tourify! Tourify integrates React's interacti
 Uniting tech and user-centric design, Tourify elevates your journey, redefining urban exploration. Built for scalability, its modern architecture can enhance travel worldwide.
 
 ---
-Delve into the backend specifics on our [repository's Wiki page](#).
+Delve into the backend specifics on our [repository's Wiki page](https://github.com/ddrangers/Tourify-Backend/wiki).
 
 For a comprehensive overview of the entire project, including frontend and machine learning components, visit the main [Tourify repository](https://github.com/ajwadjaved/Tourify).
 
