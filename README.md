@@ -17,8 +17,6 @@ For a comprehensive overview of the entire project, including frontend and machi
 
 📄 Grab the detailed backend academic report [here](https://drive.google.com/file/d/1wj3F0XTr-o5il59UX4iwGROH57-BnBPY/view?usp=sharing).
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=g-Opr2McwTA" frameborder="0" allowfullscreen></iframe>
-
 ## Backend
 
 ![Made with Spring Boot](assets/made-with-spring-boot.svg)
