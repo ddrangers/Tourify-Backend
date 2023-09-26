@@ -13,7 +13,7 @@ Delve into the backend specifics on our [repository's Wiki page](https://github.
 
 For a comprehensive overview of the entire project, including frontend and machine learning components, visit the main [Tourify repository](https://github.com/ajwadjaved/Tourify).
 
-🎥 Get a visual walkthrough with our [video introduction](www.example).
+🎥 Get a visual walkthrough with our [video introduction](https://www.youtube.com/watch?v=UPQR8Njfcm8&ab_channel=YongjieLyu).
 
 📄 Grab the detailed backend academic report [here](https://drive.google.com/file/d/1wj3F0XTr-o5il59UX4iwGROH57-BnBPY/view?usp=sharing).
 
